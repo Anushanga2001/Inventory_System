@@ -1,0 +1,32 @@
+search {
+    float: right;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+table {
+    border-collapse: collapse;
+    width: 1000px;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
